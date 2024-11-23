@@ -55,5 +55,9 @@
     "eslint-plugin-cypress": "^2.10.3",
     "gh-pages": "^2.2.0",
     "jest-enzyme": "^7.1.2"
+  }, 
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
   }
 }
